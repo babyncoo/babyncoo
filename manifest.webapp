@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "babyncoo",
+  "launch_path": "/index.html",
+  "description": "babyncoo app",
+  "developer": {
+    "name": "Royce Joe",
+    "url": "https://babyncoo.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "babyncoo",
+      "description": "babyncoo app"
+    }
+  }
+}
